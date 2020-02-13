@@ -4,7 +4,7 @@
         { 
 			"name": "foretnoire-1",
 			"imagesrc":"https://github.com/tijo91/practice/blob/master/foretnoire-1.jpg?raw=true",
-			"ingredients":null
+			"ingredients":["fraises","vanille","sucre"]
 		},
 		{ 
 			"name":"foretnoire-2",
